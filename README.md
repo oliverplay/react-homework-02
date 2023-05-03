@@ -1,6 +1,6 @@
 # react-homework-02
 
-## 1 - Feedback Widget.
+## 1 - Feedback Widget
 
 Like most companies, Expresso Cafe collects reviews from its customers. Your task is to create an application to collect statistics. There are only three options for feedback: good, neutral, and bad.
 
@@ -88,7 +88,7 @@ identifiers, use any suitable package, e.g.
 the application should look something like this.
 ![step1](images/phone-step-1.png)
 
-### Step 2.
+### Step 2
 
 Expand the functionality of the app by allowing users to add numbers
 phone numbers. To do this, add `<input type="tel">` to the form, and a property to
